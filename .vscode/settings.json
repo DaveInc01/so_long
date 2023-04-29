@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"header.h": "c",
+		"get_next_line.h": "c",
+		"so_long.h": "c"
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
